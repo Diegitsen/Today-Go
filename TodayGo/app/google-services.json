@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "146831524053",
+    "firebase_url": "https://todaygo-ce7a0.firebaseio.com",
+    "project_id": "todaygo-ce7a0",
+    "storage_bucket": "todaygo-ce7a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146831524053:android:bd1945f2568eb4c9",
+        "android_client_info": {
+          "package_name": "com.example.diego.todaygo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146831524053-5t7pjmfecnk33i12qfpcrso9u3voklg5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.diego.todaygo",
+            "certificate_hash": "e8f702764e0649e0685619c7c19010e98bb1d77c"
+          }
+        },
+        {
+          "client_id": "146831524053-4cfa12qmds4hunrcunt0a9ng9uj37pgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2ghJu1e8r2Tp7NDSnm5qu3IxRH_EjYOA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146831524053-4cfa12qmds4hunrcunt0a9ng9uj37pgu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
